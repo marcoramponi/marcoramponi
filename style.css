@@ -118,9 +118,9 @@ p { margin-top: 0; line-height: 2; }
 .feature .feature-title { font-size: 24px; font-size: 1.6em; }
 
 .step { margin-bottom: 15px; }
-.step .step-title { font-size: 15px; font-size: 1rem; text-transform: uppercase; font-weight: 400; color: #8dceb2; }
+.step .step-title { font-size: 15px; font-size: 1.1rem; text-transform: uppercase; font-weight: 400; color: #8dceb2; }
 .step .step-num { width: 30px; height: 30px; display: inline-block; vertical-align: middle; text-align: center; border: 2px solid #b0e092; border-radius: 50%; line-height: 1.5; -webkit-text-fill-color: #b0e092; color: #b0e092; margin-right: 5px; }
-.step p { font-size: 13px; font-size: 1em; color: white; }
+.step p { font-size: 13px; font-size: 1.1em; color: white; }
 
 .milestone { min-height: 100px; *zoom: 1; padding-bottom: 30px; margin-bottom: 40px; border-bottom: 1px solid #ccc; }
 .milestone:after { content: " "; clear: both; display: block; overflow: hidden; height: 0; }
@@ -549,7 +549,7 @@ p { margin-top: 0; line-height: 2; }
 #package { position: relative; z-index: 1; }
 #package .section-title, #package .section-desc { color: white; }
 
-#principles { background-color: lightslategray; color: white; }
+#principles { background-image: linear-gradient(90deg, lightslategray, #80a5b0); background-color: lightslategray;  color: white; }
 #principles .section-title, #principles .section-desc { color: white; }
 
 #contact { position: relative; z-index: 1; color: white; }
