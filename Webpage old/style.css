@@ -1,0 +1,249 @@
+/*<---general*/
+*{
+margin:0;
+padding:0;
+}
+
+body{
+font-family:'Lucida Grande','Lucida Sans Unicode','Verdana';
+font-size:12px;
+line-height:18px;
+}
+
+h1{
+margin-bottom:40px;
+}
+
+h3{
+margin:50px 0 5px 0;
+}
+/*general--->*/
+
+
+/*<---anchor*/
+a{
+color:#e60033;
+}
+
+a:link, a:visited{
+text-decoration:none;
+}
+
+a:active, a:hover{
+text-decoration:underline;
+}
+/*anchor--->*/
+
+
+/*<---list*/
+ul{
+	margin:20px 0 20px 30px;
+	padding:0;
+	list-style:none;
+}
+
+ul li{
+
+}
+/*list--->*/
+
+
+/*<---images*/
+img.hasBorder { float:right; width:500px; padding:2px; border:thin solid gray }
+/*images--->*/
+
+
+/*<---index*/
+div.main{
+margin:50px auto;
+width:450px;
+background-color:#FFFFFF;
+padding:50px;
+}
+
+div.main ul{
+width:250px;
+}
+
+div.main li a{
+color:#000000;
+display:block;
+text-decoration:none;
+
+padding:10px;
+}
+
+* html div.main li a{  /* For IE */
+	width:250px;
+}
+
+div.main li a:hover{
+background-color:#e5e4e6;
+}
+
+div.main ul li{
+margin:10px 0;
+}
+
+div.main ul li.about{
+border-left:5px solid #29A2C6;
+}
+
+div.main ul li.research{
+border-left:5px solid #FFCB18;
+}
+
+div.main ul li.events{
+border-left:5px solid #73B66B;
+}
+
+div.main ul li.teaching{
+border-left:5px solid #FF6D31;
+}
+
+div.main ul li.varia{
+border-left:5px solid #EF597B;
+}
+/*index--->*/
+
+/*<---contact*/
+div.contact{
+padding-left:30px;
+}
+
+div.contact span{
+display:inline-block;
+width:5em;
+}
+/*contact--->*/
+
+
+/*<---about*/
+div.about{
+border-top:50px solid #29A2C6;
+padding:10px 80px 50px 50px;
+}
+
+div.about ul {
+    width:800px;
+    margin:20px 0 20px 30px;
+	list-style:circle;
+}
+
+div.about ul li{
+    margin:10px 0 10px 20px;
+    padding:20;
+}
+
+div.title{
+font-weight:bold;
+}
+/*about--->*/
+
+
+/*<---research*/
+div.research{
+border-top:50px solid #FFCB18;
+padding:10px 80px 50px 50px;
+}
+
+div.research ul li{
+	border-bottom:1px solid #dcdddd;
+	padding:5px 10px;
+}
+
+div.title{
+font-weight:bold;
+}
+/*research--->*/
+
+
+/*<---events*/
+div.events{
+border-top:50px solid #73B66B;
+padding:10px 80px 50px 50px;
+}
+
+div.events ul li{
+	border-bottom:1px solid #dcdddd;
+	padding:5px 10px;
+}
+
+div.events li a{
+color:#000000;
+display:block;
+text-decoration:none;
+padding:10px;
+}
+
+* html div.events li a{  /* For IE */
+	width:700px;
+}
+
+div.events li a:hover{
+background-color:#f3f3f2;
+}
+/*events--->*/
+
+/*<---teaching*/
+div.teaching{
+border-top:50px solid #FF6D31;
+padding:10px 80px 50px 50px;
+}
+
+div.teaching ul li{
+	border-bottom:1px solid #dcdddd;
+	padding:5px 10px;
+}
+
+div.title{
+font-weight:bold;
+}
+/*teaching--->*/
+
+/*<---varia*/
+div.varia{
+border-top:50px solid #EF597B;
+padding:10px 80px 50px 50px;
+}
+
+div.varia ul {
+    width:600px;
+    margin:20px 0 20px 30px;
+	padding:0;
+	list-style:circle;
+}
+
+div.varia ul li{
+    margin:10px 0 10px 20px;
+    padding:20;
+}
+
+div.title{
+font-weight:bold;
+}
+/*varia--->*/
+
+
+/*<---sel*/
+div.sel{
+padding:10px 80px 50px 50px;
+}
+
+div.sel ul li{
+	border-bottom:1px solid #dcdddd;
+	padding:5px 10px;
+}
+
+div.title{
+font-weight:bold;
+}
+
+div.pentagonheader{
+    width: 100%;
+    height: 50px;
+    background: url(images/pentagon.png);
+    background-repeat: repeat;
+    background-size: 20%;
+}
+/*sel--->*/

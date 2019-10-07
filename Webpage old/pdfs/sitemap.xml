@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/</loc>
+  <lastmod>2015-05-12T09:36:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/about.html</loc>
+  <lastmod>2015-05-12T09:38:15+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/research.html</loc>
+  <lastmod>2015-05-12T09:36:17+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/events.html</loc>
+  <lastmod>2015-05-12T09:37:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/teaching.html</loc>
+  <lastmod>2015-05-12T09:36:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/varia.html</loc>
+  <lastmod>2015-05-12T09:36:16+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/pdfs/cv.pdf</loc>
+  <lastmod>2015-05-12T09:36:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/index.html</loc>
+  <lastmod>2015-05-12T09:36:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/pdfs/clifford_elliptic_k3.pdf</loc>
+  <lastmod>2015-05-12T09:36:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/alt/alt.html</loc>
+  <lastmod>2015-05-15T09:27:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/sel.html</loc>
+  <lastmod>2015-05-12T09:36:17+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/pdfs/sl.pdf</loc>
+  <lastmod>2015-05-12T09:36:41+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/alt/plan.html</loc>
+  <lastmod>2015-05-15T09:28:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/alt/programme.html</loc>
+  <lastmod>2015-05-15T09:28:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www-math.sp2mi.univ-poitiers.fr/~mramponi/alt/mention.html</loc>
+  <lastmod>2015-05-15T09:35:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
